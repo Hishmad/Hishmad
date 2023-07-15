@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hishmad
 - 👀 I’m interested in Microservices 
 - 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on DeSci
+- 💞️ I’m looking to collaborate on DeFi/DeSci
 - 📫 How to reach me Twitter @hishmad
 
 <!---
